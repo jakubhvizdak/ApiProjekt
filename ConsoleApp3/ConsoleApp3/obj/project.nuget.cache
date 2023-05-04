@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+dvgz57jFGa5EckhWpOgQHoNbAegBhjTzqEf8McgMLWCdxRHbTCs9tZEZpNMTv7SfFLsX7SDYjuITM4/6aP4fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stincker\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stincker\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\stincker\\.nuget\\packages\\openweather\\2.0.0\\openweather.2.0.0.nupkg.sha512",
+    "C:\\Users\\stincker\\.nuget\\packages\\openweathermap\\1.1.0\\openweathermap.1.1.0.nupkg.sha512",
+    "C:\\Users\\stincker\\.nuget\\packages\\unitsnet\\4.113.0\\unitsnet.4.113.0.nupkg.sha512"
+  ],
+  "logs": []
+}
